@@ -1,0 +1,7 @@
+[package]
+name = "px86-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rust-analyzer = "0.0.1"
