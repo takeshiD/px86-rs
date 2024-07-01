@@ -2,6 +2,8 @@
 name = "px86-rs"
 version = "0.1.0"
 edition = "2021"
+authors = ["takeshid"]
 
 [dependencies]
-rust-analyzer = "0.0.1"
+byteorder = "1.5.0"
+clap = { version = "4.5.7", features = ["derive"] }
